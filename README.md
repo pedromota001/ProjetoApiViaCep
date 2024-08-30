@@ -1,6 +1,6 @@
 ## Projeto Buscador de CEP
 # Objetivo
-Este projeto é um estudo sobre o uso de APIs, gravação de arquivos e manejo de exceções em Java, baseado em conceitos aprendidos durante o curso: Java:consumindo API, gravando arquivos e lidando com erros, realizado no portal ALURA. O objetivo principal é interagir com a API de CEPs ViaCEP para buscar informações sobre endereços a partir de um código postal (CEP) e armazenar esses dados em um arquivo JSON.
+Este projeto é um estudo sobre o uso de APIs, com foco específico em webservices; gravação de arquivos e manejo de exceções em Java, baseado em conceitos aprendidos durante o curso: Java:consumindo API, gravando arquivos e lidando com erros, realizado no portal ALURA. O objetivo principal é interagir com a API de CEPs ViaCEP para buscar informações sobre endereços a partir de um código postal (CEP) e armazenar esses dados em um arquivo JSON.
 
 # Funcionalidades
 Busca de CEP: Permite ao usuário buscar informações sobre um CEP específico usando a API ViaCEP.
